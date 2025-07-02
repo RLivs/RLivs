@@ -5,7 +5,7 @@
 🎮 Background: 8 years in game development - I designed gameplay systems and features to enhance player experience.  
 🖥️ Currently: self-learning system administration and helpdesk support.  
 🧠 Skills: Windows Administration, System Support, Windows Server 2022, PowerShell, Linux basics, bash scripting, server configuration, backups.
-🎓 Operating Systems Administrator for Small and Medium-Sized Organizations 
+🎓 Certified in Operating Systems Administrator for Small and Medium-Sized Organizations 
 
 
 ## 🚀 What I'm Working On
