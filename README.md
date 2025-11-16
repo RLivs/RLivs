@@ -2,7 +2,7 @@
 
 - 👋 Hello! I'm Svjatoslava (svya-to-sla-va) – or just call me Liv.  
 - 🎮 Background: 8 years in game development – I designed gameplay systems and features to enhance player experience.  
-- 💻 Currently: self-learning system administration and helpdesk support.  
+- 💻 Currently: Technical Support Specialist
 - 🧠 Skills: Windows Administration, System Support, Windows Server 2022, PowerShell, Linux basics, bash scripting, server configuration, backups.  
 - 🎓 Certified in Operating Systems Administration for Small and Medium-Sized Organizations
 
